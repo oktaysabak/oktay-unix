@@ -1,0 +1,239 @@
+  PID TTY      STAT   TIME COMMAND
+    1 ?        Ss     0:00 /sbin/init
+    2 ?        S      0:00 [kthreadd]
+    3 ?        S      0:00 [ksoftirqd/0]
+    4 ?        S      0:00 [kworker/0:0]
+    5 ?        S<     0:00 [kworker/0:0H]
+    7 ?        S      0:00 [rcu_sched]
+    8 ?        S      0:00 [rcuos/0]
+    9 ?        S      0:00 [rcuos/1]
+   10 ?        S      0:00 [rcuos/2]
+   11 ?        S      0:00 [rcuos/3]
+   12 ?        S      0:00 [rcuos/4]
+   13 ?        S      0:00 [rcuos/5]
+   14 ?        S      0:00 [rcuos/6]
+   15 ?        S      0:00 [rcuos/7]
+   16 ?        S      0:00 [rcu_bh]
+   17 ?        S      0:00 [rcuob/0]
+   18 ?        S      0:00 [rcuob/1]
+   19 ?        S      0:00 [rcuob/2]
+   20 ?        S      0:00 [rcuob/3]
+   21 ?        S      0:00 [rcuob/4]
+   22 ?        S      0:00 [rcuob/5]
+   23 ?        S      0:00 [rcuob/6]
+   24 ?        S      0:00 [rcuob/7]
+   25 ?        S      0:00 [migration/0]
+   26 ?        S      0:00 [watchdog/0]
+   27 ?        S      0:00 [watchdog/1]
+   28 ?        S      0:00 [migration/1]
+   29 ?        S      0:00 [ksoftirqd/1]
+   31 ?        S<     0:00 [kworker/1:0H]
+   32 ?        S      0:00 [watchdog/2]
+   33 ?        S      0:00 [migration/2]
+   34 ?        S      0:00 [ksoftirqd/2]
+   35 ?        S      0:00 [kworker/2:0]
+   36 ?        S<     0:00 [kworker/2:0H]
+   37 ?        S      0:00 [watchdog/3]
+   38 ?        S      0:00 [migration/3]
+   39 ?        S      0:00 [ksoftirqd/3]
+   40 ?        S      0:00 [kworker/3:0]
+   41 ?        S<     0:00 [kworker/3:0H]
+   42 ?        S      0:00 [watchdog/4]
+   43 ?        S      0:00 [migration/4]
+   44 ?        S      0:00 [ksoftirqd/4]
+   45 ?        S      0:00 [kworker/4:0]
+   46 ?        S<     0:00 [kworker/4:0H]
+   47 ?        S      0:00 [watchdog/5]
+   48 ?        S      0:00 [migration/5]
+   49 ?        S      0:00 [ksoftirqd/5]
+   50 ?        S      0:00 [kworker/5:0]
+   51 ?        S<     0:00 [kworker/5:0H]
+   52 ?        S      0:00 [watchdog/6]
+   53 ?        S      0:00 [migration/6]
+   54 ?        S      0:00 [ksoftirqd/6]
+   55 ?        S      0:00 [kworker/6:0]
+   56 ?        S<     0:00 [kworker/6:0H]
+   57 ?        S      0:00 [watchdog/7]
+   58 ?        S      0:00 [migration/7]
+   59 ?        S      0:00 [ksoftirqd/7]
+   61 ?        S<     0:00 [kworker/7:0H]
+   62 ?        S<     0:00 [khelper]
+   63 ?        S      0:00 [kdevtmpfs]
+   64 ?        S<     0:00 [netns]
+   65 ?        S      0:00 [khungtaskd]
+   66 ?        S<     0:00 [writeback]
+   67 ?        SN     0:00 [ksmd]
+   68 ?        SN     0:00 [khugepaged]
+   69 ?        S<     0:00 [crypto]
+   70 ?        S<     0:00 [kintegrityd]
+   71 ?        S<     0:00 [bioset]
+   72 ?        S<     0:00 [kblockd]
+   73 ?        S<     0:00 [ata_sff]
+   74 ?        S      0:00 [khubd]
+   75 ?        S<     0:00 [md]
+   76 ?        S<     0:00 [devfreq_wq]
+   78 ?        S      0:00 [kworker/2:1]
+   80 ?        S      0:00 [kswapd0]
+   81 ?        S      0:00 [fsnotify_mark]
+   82 ?        S      0:00 [ecryptfs-kthrea]
+   94 ?        S<     0:00 [kthrotld]
+   95 ?        S<     0:00 [acpi_thermal_pm]
+   96 ?        S      0:00 [kworker/6:1]
+   99 ?        S      0:00 [kworker/5:1]
+  100 ?        S<     0:00 [ipv6_addrconf]
+  101 ?        S      0:00 [kworker/1:1]
+  120 ?        S<     0:00 [deferwq]
+  121 ?        S<     0:00 [charger_manager]
+  180 ?        S<     0:00 [kpsmoused]
+  181 ?        S      0:00 [kworker/0:2]
+  182 ?        S      0:00 [scsi_eh_0]
+  183 ?        S<     0:00 [scsi_tmf_0]
+  184 ?        S      0:00 [scsi_eh_1]
+  185 ?        S<     0:00 [scsi_tmf_1]
+  186 ?        S      0:00 [scsi_eh_2]
+  187 ?        S<     0:00 [scsi_tmf_2]
+  188 ?        S      0:00 [scsi_eh_3]
+  189 ?        S<     0:00 [scsi_tmf_3]
+  190 ?        S      0:00 [scsi_eh_4]
+  191 ?        S<     0:00 [scsi_tmf_4]
+  192 ?        S      0:00 [scsi_eh_5]
+  193 ?        S<     0:00 [scsi_tmf_5]
+  210 ?        S      0:00 [jbd2/sda2-8]
+  211 ?        S<     0:00 [ext4-rsv-conver]
+  225 ?        S      0:00 [kworker/3:1]
+  245 ?        S      0:00 [kworker/4:1]
+  247 ?        S      0:00 [kworker/7:1]
+  354 ?        S      0:00 upstart-udev-bridge --daemon
+  359 ?        Ss     0:00 /lib/systemd/systemd-udevd --daemon
+  431 ?        S      0:00 [irq/42-mei_me]
+  432 ?        S<     0:00 [kworker/3:1H]
+  443 ?        S<     0:00 [kworker/6:1H]
+  452 ?        S<     0:00 [kvm-irqfd-clean]
+  454 ?        S<     0:00 [kworker/4:1H]
+  552 ?        S<     0:00 [hd-audio0]
+  556 ?        S      0:00 upstart-socket-bridge --daemon
+  639 ?        S<     0:00 [kworker/0:1H]
+  678 ?        S<     0:00 [kworker/5:1H]
+  716 ?        Ss     0:00 dbus-daemon --system --fork
+  727 ?        S      0:00 upstart-file-bridge --daemon
+  740 ?        Ssl    0:00 /usr/sbin/ModemManager
+  741 ?        Ss     0:00 /usr/sbin/bluetoothd
+  753 ?        S<     0:00 [krfcommd]
+  766 ?        Ssl    0:00 rsyslogd
+  783 ?        S      0:00 avahi-daemon: running [user14-Veriton-X4620G.local]
+  788 ?        S      0:00 avahi-daemon: chroot helper
+  795 ?        Ss     0:00 /lib/systemd/systemd-logind
+  848 ?        Ssl    0:00 NetworkManager
+  854 ?        Sl     0:00 /usr/lib/policykit-1/polkitd --no-debug
+  961 tty4     Ss+    0:00 /sbin/getty -8 38400 tty4
+  965 tty5     Ss+    0:00 /sbin/getty -8 38400 tty5
+  971 tty2     Ss+    0:00 /sbin/getty -8 38400 tty2
+  972 tty3     Ss+    0:00 /sbin/getty -8 38400 tty3
+  975 tty6     Ss+    0:00 /sbin/getty -8 38400 tty6
+ 1022 ?        Ss     0:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+ 1024 ?        Ss     0:00 /usr/sbin/irqbalance
+ 1029 ?        Ss     0:00 /usr/sbin/kerneloops
+ 1036 ?        Ss     0:00 /usr/sbin/cups-browsed
+ 1080 ?        Ss     0:00 cron
+ 1092 ?        S<     0:00 [iprt]
+ 1161 tty1     Ss+    0:00 /sbin/getty -8 38400 tty1
+ 1166 ?        Ssl    0:00 whoopsie
+ 1181 ?        SLsl   0:00 lightdm
+ 1195 ?        Sl     0:00 /usr/lib/accountsservice/accounts-daemon
+ 1222 ?        S      0:00 [kauditd]
+ 1264 ?        S<     0:00 [kworker/2:1H]
+ 1265 ?        S<     0:00 [kworker/1:1H]
+ 1307 ?        Sl     0:00 /usr/lib/upower/upowerd
+ 1402 ?        SNl    0:00 /usr/lib/rtkit/rtkit-daemon
+ 1492 ?        S<     0:00 [kworker/7:1H]
+ 1737 ?        Sl     0:00 /usr/lib/colord/colord
+ 1741 ?        S<l    0:00 /usr/bin/pulseaudio --start --log-target=syslog
+ 1837 ?        S      0:00 socat openssl-connect:192.168.82.5:789,cafile=/etc/epoptes/server.crt,interval=60,forever EXEC:bash -c \"exec -a epoptes-client sh\"
+ 1878 ?        Sl     0:00 /usr/lib/udisks2/udisksd --no-debug
+ 2056 ?        Ss     0:00 /usr/sbin/cupsd -f
+ 2059 ?        S      0:00 /usr/lib/cups/notifier/dbus dbus:// 
+ 2165 ?        S      0:00 [kworker/1:2]
+ 2270 tty7     Ssl+   0:22 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+ 2325 ?        Sl     0:00 lightdm --session-child 12 19
+ 2429 ?        Sl     0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+ 2431 ?        Ss     0:00 init --user
+ 2496 ?        Ss     0:07 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-tM0Emc6E2i
+ 2507 ?        Ss     0:00 upstart-event-bridge
+ 2513 ?        Ss     0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+ 2519 ?        Ssl    0:14 /usr/bin/ibus-daemon --daemonize --xim
+ 2525 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+ 2531 ?        S      0:00 upstart-file-bridge --daemon --user
+ 2533 ?        Sl     0:00 /usr/lib/gvfs/gvfsd
+ 2538 ?        S      0:02 upstart-dbus-bridge --daemon --session --user --bus-name session
+ 2540 ?        S      0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+ 2548 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+ 2551 ?        Sl     0:00 /usr/lib/ibus/ibus-dconf
+ 2558 ?        Sl     0:03 /usr/lib/ibus/ibus-ui-gtk3
+ 2564 ?        Sl     0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+ 2574 ?        Ssl    0:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+ 2583 ?        Ssl    0:01 /usr/lib/x86_64-linux-gnu/hud/hud-service
+ 2587 ?        Ssl    0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+ 2589 ?        Ssl    0:00 gnome-session --session=ubuntu
+ 2595 ?        Ssl    0:12 /usr/lib/unity/unity-panel-service
+ 2597 ?        S      0:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+ 2608 ?        Sl     0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+ 2623 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+ 2625 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+ 2626 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+ 2628 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+ 2635 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+ 2637 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+ 2638 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+ 2650 ?        Sl     0:00 /usr/lib/evolution/evolution-source-registry
+ 2652 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+ 2653 ?        Sl     0:04 /usr/lib/ibus/ibus-engine-simple
+ 2659 ?        Sl     0:02 /usr/lib/x86_64-linux-gnu/notify-osd
+ 2665 ?        Ssl    0:09 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+ 2713 ?        Sl     0:00 /usr/lib/dconf/dconf-service
+ 2716 ?        Sl     1:01 compiz
+ 2722 ?        Sl     0:00 /usr/lib/evolution/evolution-calendar-factory
+ 2726 ?        Sl     0:01 nautilus -n
+ 2728 ?        S      0:00 socat openssl-connect:192.168.82.5:789,cafile=/etc/epoptes/server.crt,interval=60,forever EXEC:bash -c \"exec -a epoptes-client sh\"
+ 2730 ?        Sl     0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+ 2739 ?        Sl     0:08 nm-applet
+ 2740 ?        Sl     0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+ 2767 ?        Sl     0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+ 2775 ?        Sl     0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+ 2781 ?        Sl     0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+ 2792 ?        Sl     0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+ 2798 ?        S      0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+ 2802 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+ 2818 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-metadata
+ 2822 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+ 2834 ?        Sl     0:04 gnome-terminal
+ 2841 ?        S      0:00 gnome-pty-helper
+ 2842 pts/15   Ss     0:00 bash
+ 2856 ?        Sl     0:00 telepathy-indicator
+ 2863 ?        Sl     0:00 /usr/lib/telepathy/mission-control-5
+ 2880 pts/15   S      0:00 dbus-launch --autolaunch=a06deb1e945221c12a6052da54f5f7de --binary-syntax --close-stderr
+ 2881 ?        Ss     0:00 //bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+ 2886 ?        Sl     0:00 /usr/lib/dconf/dconf-service
+ 2888 ?        Sl     0:00 /usr/bin/zeitgeist-daemon
+ 2895 ?        Sl     0:00 zeitgeist-datahub
+ 2917 ?        Sl     0:00 /usr/lib/gvfs/gvfsd
+ 2922 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-fuse /home/user14/.gvfs -f -o big_writes
+ 2935 ?        Sl     0:00 /usr/bin/zeitgeist-daemon
+ 2941 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+ 2943 ?        Sl     0:00 zeitgeist-datahub
+ 2947 ?        S      0:00 /bin/cat
+ 2979 ?        Sl     0:00 update-notifier
+ 2998 ?        S      0:00 [kworker/7:2]
+ 3027 pts/15   S      0:00 bash
+ 3052 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+ 3072 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+ 3084 ?        Sl     0:00 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+ 3088 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+ 3120 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+ 3200 pts/15   Sl+    0:16 gedit hafta-4
+ 3216 pts/0    Ss     0:00 bash
+ 3284 ?        S      0:00 [kworker/u16:2]
+ 3317 ?        S      0:00 [kworker/u16:0]
+ 3360 ?        S      0:00 [kworker/u16:1]
+ 3377 ?        S      0:00 /lib/systemd/systemd-hostnamed
+ 3416 pts/0    S+     0:00 /bin/bash ./dosyayaYazma
+ 3417 pts/0    R+     0:00 ps ax
