@@ -1,6 +1,6 @@
-This repository has some basic unix scripts for practicing **bash**
+this repository has some basic unix scripts for practicing **bash**
 
-> unfortunetly my comments in Turkish Language
+> unfortunetly my comments are in Turkish Language on school_scripts/ directory
 
 you can find a lot of old scripts under [school script](school_scripts/) directory.
 

@@ -1,7 +1,7 @@
 
  ## `echo`&nbsp;&nbsp;command
 
- _echo_ is built-in sash command. it's using for display arguments/parameters/strings etc. on standart output.
+ _echo_ is built-in bash command. it's using for display arguments/parameters/strings etc. on standart output.
 
 __syntax__:&nbsp;&nbsp;`echo [options] [string]`
 
