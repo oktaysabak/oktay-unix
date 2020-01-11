@@ -9,4 +9,4 @@ __example__:&nbsp;&nbsp;`echo "hellow world"`
 
 __run this command for more information about echo options__: &nbsp;&nbsp; `man echo`
 
-[lesson 1 script](lesson1.sh)
+[lesson 1's script](lesson1.sh)

@@ -24,4 +24,4 @@ me too!
 '
 ```
 
-[lesson 2 script](lesson2.sh)
+[lesson 2's script](lesson2.sh)
