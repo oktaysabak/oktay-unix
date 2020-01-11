@@ -9,3 +9,5 @@ you can find a lot of old scripts under [school script](school_scripts/) directo
 ### lesson 2: [commenting in bash](bash_tut/lesson2.md)
 
 ### lesson 3: [quotes in bash](bash_tut/lesson3.md)
+
+### lesson 4: [variables in bash](bash_tut/lesson4.md)
