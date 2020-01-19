@@ -11,3 +11,5 @@ you can find a lot of old scripts under [school script](school_scripts/) directo
 ### lesson 3: [quotes in bash](bash_tut/lesson3.md)
 
 ### lesson 4: [variables in bash](bash_tut/lesson4.md)
+
+### lesson 5: [readi input in bash](bash_tut/lesson5.md)
