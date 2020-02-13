@@ -12,4 +12,6 @@ you can find a lot of old scripts under [school script](school_scripts/) directo
 
 ### lesson 4: [variables in bash](bash_tut/lesson4.md)
 
-### lesson 5: [readi input in bash](bash_tut/lesson5.md)
+### lesson 5: [read input in bash](bash_tut/lesson5.md)
+
+### lesson : [arithmetic operators in bash](bash_tut/lesson6.md)

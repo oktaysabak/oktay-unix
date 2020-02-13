@@ -54,3 +54,6 @@ a=1
 b=2
 echo " $a + $b is `expr $a + $b`"
 ```
+
+
+[lesson 6's script](lesson6.sh)
